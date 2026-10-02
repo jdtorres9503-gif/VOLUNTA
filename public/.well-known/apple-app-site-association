@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "VOLUNTA99.app.volunta.esg",
+        "paths": ["*"]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["VOLUNTA99.app.volunta.esg"]
+  }
+}

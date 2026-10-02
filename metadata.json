@@ -1,0 +1,6 @@
+{
+  "name": "Volunta - Marketplace de Impacto Social",
+  "description": "Plataforma de impacto social que conecta ONGs, Empresas (RSE/ESG) y Voluntarios con landing adaptable, soporte multilingüe y modo oscuro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
